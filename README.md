@@ -4,8 +4,8 @@
 Exercise|File Name|Description
 --------|---------|-----------
 **Exercise 1**|**fibname.py**|
-**Exercise 2**
-**Exercise 3**
-**Exercise 4**
-**Exercise 5**
-**Exercise 6**
+**Exercise 2**|**fibname.py**|
+**Exercise 3**|**collatz.py**|
+**Exercise 4**|**projecteuler.py**|
+**Exercise 5**|**iris.py**|
+**Exercise 6**|**factorial.py**|
