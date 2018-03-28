@@ -2,4 +2,4 @@
 ## Weekly Exercises
 
 Exercise|File Name|Description
-
+--------|---------|-----------
