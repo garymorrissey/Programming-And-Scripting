@@ -1,2 +1,4 @@
-# Programming-And-Scripting
-Python scripts
+# Programming and Scripting
+## Weekly Exercises
+
+
