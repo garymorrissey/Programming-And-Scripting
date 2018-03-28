@@ -3,8 +3,8 @@
 
 Exercise|File Name|Description
 --------|---------|-----------
-**Exercise 1**|**fibname.py**|
-**Exercise 2**|**fibname.py**|
+**Exercise 1**|**fibtest.py**|
+**Exercise 2**|**fibtest.py**|
 **Exercise 3**|**collatz.py**|
 **Exercise 4**|**projecteuler.py**|
 **Exercise 5**|**iris.py**|
