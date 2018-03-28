@@ -2,7 +2,7 @@
 ## Weekly Exercises
 
 Exercise|File Name|Description
---------|---------|-----------
+-----------|---------|-----------
 **Exercise 1**|**fib.py**|**Calculate the fibonacci number using the first and last characters of my name - 'G' and 'Y' = 32**
 **Exercise 2**|**fibtest.py**|
 **Exercise 3**|**collatz.py**|**Create a script to test the [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) in Python, starting with any integer and repeatedly applying the Collatz function**
